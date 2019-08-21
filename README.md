@@ -13,7 +13,7 @@ Is playing Minecraft with a keyboard and mouse too easy? Have you ever wondered 
 1. Carl Kenner's GlovePIE is the program we will use to translate Wii Remote inputs into keyboard and mouse inputs. Download GlovePIE from [my repository here](https://github.com/ravbug/glovepie). Follow the instructions there to download it. 
 2. Download this repository as a ZIP by pressing the green Clone or download button at the top right of this repository.
 3. Launch GlovePIE (press YES to administrative access) and open one of the three .PIE scripts.
-4. 
+4. Press the green Play button at the top of the GlovePIE window to start the script. 
 
 ## Configure controls
 1. The scripts have basic controls at the top of the file. Change the mappings to alter the controls. Review the [Wii remote page on the wiki](https://github.com/Ravbug/GlovePIE/wiki/Wiimote-(Nintendo-Wii-Remote)) for a list of all the button mappings.
