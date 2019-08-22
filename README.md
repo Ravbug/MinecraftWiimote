@@ -13,7 +13,7 @@ Is playing Minecraft with a keyboard and mouse too easy? Have you ever wondered 
 2. Download this repository as a ZIP by pressing the green Clone or download button at the top right of this repository.
 
 ## How to Use
-1. aunch GlovePIE (press YES to administrative access) and open one of the three .PIE scripts.
+1. Launch GlovePIE (press YES to administrative access, it needs access to be able to send keyboard and mouse inputs) and open one of the three .PIE scripts.
 2. Press the green Play button at the top of the GlovePIE window to start the script.
 3. Ensure the lights on your Wiimote change. 
 4. Alt-Tab to Minecraft and play!
