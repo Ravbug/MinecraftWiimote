@@ -1,6 +1,6 @@
 # MinecraftWiimote
 
-Is playing Minecraft with a keyboard and mouse too easy? Have you ever wondered what playing Minecraft on the Nintendo Wii would have been like? Well Look no further! This repository will let you play Minecraft (Java Edition or Bedrock) using a Nintendo Wii remote!
+Is playing Minecraft with a keyboard and mouse too easy? Have you ever wondered what playing Minecraft on the Nintendo Wii would have been like? Well look no further! This repository will let you play Minecraft (Java Edition or Bedrock) using a Nintendo Wii remote!
 
 ## System Requirements
 1. Microsoft Windows 8 or newer
@@ -9,14 +9,15 @@ Is playing Minecraft with a keyboard and mouse too easy? Have you ever wondered 
 4. Minecraft Java Edition or Minecraft Bedrock Edition
 
 ## Required Software
-1. Carl Kenner's GlovePIE is the program we will use to translate Wii Remote inputs into keyboard and mouse inputs. Download GlovePIE from [my repository here](https://github.com/ravbug/glovepie). Follow the instructions there to download it. 
+1. Carl Kenner's GlovePIE is the program we will use to translate Wii Remote inputs into keyboard and mouse inputs. Download GlovePIE from [my repository here](https://github.com/ravbug/glovepie) (the original site no longer works). Follow the instructions there to download it. 
 2. Download this repository as a ZIP by pressing the green Clone or download button at the top right of this repository.
 
 ## How to Use
-1. Launch GlovePIE (press YES to administrative access, it needs access to be able to send keyboard and mouse inputs) and open one of the three .PIE scripts.
-2. Press the green Play button at the top of the GlovePIE window to start the script.
-3. Ensure the lights on your Wiimote change. 
-4. Alt-Tab to Minecraft and play!
+1. Launch GlovePIE (press YES to administrative access, it needs access to be able to send keyboard and mouse inputs)
+2. In GlovePIE, open one of the three .PIE scripts.
+3. Press the green Play button at the top of the GlovePIE window to start the script.
+4. Ensure the lights on your Wiimote change. 
+5. Alt-Tab to Minecraft and play!
 
 ## How to connect your Wii remote
 1. Open Control Panel (NOT Windows 8/10 Settings) 
